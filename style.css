@@ -1,0 +1,8 @@
+.ui.borderless.topmenue.menu {
+  background-color: #f7f7f7;
+  box-shadow: none;
+  border: none;
+}
+#shipping {
+  color: red;
+}
