@@ -7,5 +7,10 @@
   color: red;
 }
 .ui.borderless.middlemenu.menu {
-
+  box-shadow: none;
+  border: none;
+}
+.footer {
+  padding-top: 20px;
+  padding-bottom: 30px;
 }
