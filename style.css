@@ -1,8 +1,11 @@
-.ui.borderless.topmenue.menu {
+.ui.borderless.topmenu.menu {
   background-color: #f7f7f7;
   box-shadow: none;
   border: none;
 }
 #shipping {
   color: red;
+}
+.ui.borderless.middlemenu.menu {
+
 }
